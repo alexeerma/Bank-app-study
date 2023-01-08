@@ -1,2 +1,2 @@
-# React-portfolio
-React Portfolio for portfolio website
+# Bank-app-study
+Recreated bank app from Javascript-Mastery. 
