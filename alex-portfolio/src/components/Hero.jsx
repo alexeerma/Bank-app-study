@@ -20,7 +20,7 @@ const Hero = () => (
         Mina olen <span className="text-gradient">Aleksander Eerma.</span> <br/> Ma olen <span className="text-gradient">arendaja.</span> 
         </h1>
 
-        <div className="ss:flex hidden md:mr-4 mr-0">
+        <div className="ss:flex hidden md:mr-4 mr-0 ml-10">
           <GetStarted />
         </div>
 
