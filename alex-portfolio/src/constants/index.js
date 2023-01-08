@@ -30,7 +30,7 @@ export const features = [
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% secure",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
